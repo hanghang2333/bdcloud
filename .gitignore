@@ -1,0 +1,8 @@
+*.txt
+*.jpg
+*.png
+*.zip
+*.pyc
+*.index
+*.meta
+savedmodel/*
